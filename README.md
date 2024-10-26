@@ -30,4 +30,4 @@ It is used to set environment variables, aliases, and other settings that are ap
 It runs special commands whenever you open a new terminal.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL-3.0 License. See the [LICENSE](LICENSE) file for details.
