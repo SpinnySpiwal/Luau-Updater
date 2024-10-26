@@ -7,7 +7,7 @@ Thanks for using Luau-Automatic Updater by SpinnySpiwal!
 
 2. Run the following command to download and execute the installation script:
 
-   ```
+   ```sh
    curl -sSL https://raw.githubusercontent.com/SpinnySpiwal/Luau-Updater/main/install.sh | sh
    ```
 
